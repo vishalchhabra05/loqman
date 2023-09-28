@@ -1,0 +1,2 @@
+ALTER TABLE `users` ADD `otp` VARCHAR(255) NULL DEFAULT NULL AFTER `status`, ADD `otp_time` DATETIME NULL DEFAULT NULL AFTER `otp`;
+ALTER TABLE `users` DROP `token`;

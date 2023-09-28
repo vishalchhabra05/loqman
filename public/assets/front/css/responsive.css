@@ -1,0 +1,1126 @@
+@media (max-width: 1700px){
+	.homeBanner-img{
+	    padding-right: 0;
+	}
+	.largeView-btn{
+		top: 40rem;
+	}
+	.pcd-item:first-child {
+    	margin-right: 2rem;
+	}
+}
+
+
+@media (max-width: 1600px){
+	.cus_modal .cus_modal_body .modal_inner{
+		padding: 3rem 4rem;
+	}
+	.auth-form .form-group {
+	    margin-bottom: 1.5rem;
+	}
+	.bottom-info{
+		margin: 1rem 0 2rem;
+	}
+	.hdown-app-section{
+		margin-top: 7rem;
+	}
+	.downApp-content{
+		padding: 5.5rem 0;
+	}
+	.downApp-store a:first-child{
+		margin-right: 2rem;
+	}
+	.downApp-store a img{
+		width: 22rem;
+	}
+	.downApp-img img{
+		width: 40rem;
+	}
+	.downApp-content p{
+		margin: 3rem 0;
+	}
+	.downApp-img {
+    	margin-top: -107px;
+	}
+	.dbMenu-item{
+		padding: 2.65rem 1rem;
+	}
+}
+
+@media (max-width: 1440px){
+	html{
+		font-size: 58%;
+	}
+	.btn{
+		padding: 10px 5px;
+		font-size: 16px;
+	}
+	.btn-sm {
+    	width: 130px;
+	}
+	.homeBanner-caption .hb-form{
+		width: 800px;
+	}
+	.hb-form-group input{
+		height: 46px;
+	}
+	.trending-section{
+		padding: 8rem 0;
+	}
+	.downApp-img {
+    	margin-top: -87px;
+	}
+	.review-content p{
+		font-size: 16px;
+	}
+	.myAdsPro-img {
+	    min-width: 250px;
+	    height: 220px;
+	}
+
+	.myAdsPro-detail {
+	    margin-left: 2rem;
+	    margin-top: 1rem;
+	}
+	.myAdsPro-detail h3 {
+	    font-size: 2.4rem;
+	}
+	.myAdsPro-action .btn {
+	    width: 4.5rem;
+	    height: 4.5rem;
+	    padding: 0;
+	    line-height: 1.5rem;
+	}
+	.myAdsPro-action .btn img {
+	    height: 20px;
+	}
+	.user-search{
+		padding: 2.8rem 3rem;
+	}
+}
+
+
+@media (max-width: 1400px){
+	.subPlan-tab-nav .nav-tabs li a{
+		padding: 2rem 2.5rem;
+	}
+	.subPlan-tab-nav li a .right h5{
+		font-size: 3.8rem;
+	}
+	.subPlan-tab-nav li a .left h6{
+		font-size: 2rem;
+	}
+	.subPlan-list{
+		height: 560px;
+	}
+	.settingTab-nav ul li a{
+		padding: 2.5rem 2rem;
+		font-size: 2rem;
+	}
+	.ss-list .ss-item{
+		padding: 2.5rem 0;
+	}
+	.ss-label{
+		font-size: 2rem;
+	}
+	.pdb-wrap .pdb-left {
+    	width: calc(100% - 364px);
+	}
+	.largeView-btn {
+    	top: 36.5rem;
+	}
+	.product-list{
+		margin-top: 3rem
+	}
+
+	.section-title h2{
+		font-size: 3.8rem;
+	}
+	.dbMenu-icon img {
+    	height: 20px;
+	}
+	.dbMenu-item span,
+	.specification-content p,
+	.map-content p,
+	.ivt-row .ivt-data,
+	.badge.badge-sm{
+		font-size: 16px;
+	}
+	.dbMenu-item {
+    	padding: 1.65rem 1rem;
+	}
+	.myProfile-main-tab .yourProfile-block,
+	.myProfile-main-tab .editProfile-block, .myProfile-main-tab .changePass-block{
+		padding: 3.4rem 2.5rem;
+	}
+	.pcd-icon img {
+    	width: 72px;
+	}
+	.pcd-item:first-child {
+    	margin-right: 1.2rem;
+	}
+	.invoiceList-block{
+		padding: 4rem 4rem 2rem;
+	}
+	.planPayment-block{
+		padding: 4rem 3.5rem;
+	}
+	.ivt-row .ivt-data:first-child{
+		padding-left: 2.5rem;
+	}
+	.badge.badge-sm{
+		padding: 1rem 0.5rem;
+	}
+	.payMethod-block{
+		padding: 1.5rem;
+	}
+	.pm-card-title span{
+		font-size: 20px;
+		margin-left: 10px;
+	}
+	.pm-content span,
+	.payCard-amount .pca-text span sup,
+	.payCard-content span{
+		font-size: 15px;
+	}
+	.payment-card .absolute-block {
+	    padding: 0 2rem;
+	}
+	.payCard-amount .pca-text span {
+	    font-size: 4rem;
+	}
+	.payCard-amount img {
+	    width: 100px;
+	}
+	.payCard-content h3{
+		font-size: 24px;
+	}
+	.paymentCard-img{
+		height: 17.5rem
+	}
+
+	.chat-block .chat-block-inner {
+	    padding: 2rem 1.5rem;
+	}
+
+	.user-search{
+		padding: 2rem 1.5rem;
+	}
+	.chat-head{
+		padding: 2rem 3rem;
+	}
+	.chat-user-img img,
+	.chatHead-user-img img {
+		width: 6rem;
+	    min-width: 6rem;
+	    margin-right: 10px;
+	    height: 6rem;
+	}
+
+	.chat-user-content p {
+	    font-size: 15px;
+	}
+
+	.new-message-number {
+	    padding: 1px 10px;
+	    font-size: 13px;
+	}
+}
+
+@media (max-width: 1366px){
+	.homeBanner-caption .hb-form {
+    	width: 680px;
+	}
+	.hb-form-group:first-child:after{
+		right: 10px;
+	}
+	.homeBanner-caption {
+    	padding: 7.8rem 0 3rem;
+	}
+	.homeBanner-img img {
+    	width: 320px;
+	}
+
+	.product-item {
+	    width: calc(25% - 12px);
+	}
+
+	.product-item:nth-child(5n+0) {
+	    margin-right: 15px;
+	}
+
+	.product-item:nth-child(4n+0) {
+	    margin-right: 0;
+	}
+	.downApp-img img {
+    	width: 37rem;
+	}
+	.downApp-content {
+    	padding: 4.5rem 0;
+	}
+	.innerPage-content .ipc-box h2{
+		font-size: 2.5rem;
+	}
+	.innerPage-content .ipc-box p,
+	.innerPage-content .ipc-box ul li{
+		font-size: 15px;
+	}
+	input.form-control, select.form-control, .form-control{
+	    height: 46px;
+	    padding: 5px 14px;
+	    font-size: 14px;
+	}
+	.user-search input.form-control {
+    	padding-left: 48px;
+	}
+	.form-group .select2-container--default .select2-selection--single .select2-selection__rendered{
+		line-height: 46px;
+		padding: 0 14px;
+		font-size: 14px;
+	}
+	.form-group .select2-container--default .select2-selection--single .select2-selection__arrow:after{
+		line-height: 46px;
+	}
+	.form-group .select2-container .select2-selection--single{
+		height: 46px;
+	}
+	.footer-logo img {
+    	width: 126px;
+	}
+	.btn-md {
+    	width: 160px;
+	}
+	.pm-action{
+		top: 1.8rem;
+	}
+	.myAdsPro-action .btn + .btn, .pm-action .btn + .btn{
+		margin-left: 0.5rem;
+	}
+	.pm-card-title .pmc-img {
+	    padding: 1.2rem 2rem;
+	    display: flex;
+	    align-items: center;
+	    border-radius: 12px;
+	}
+	.pm-card-title span{
+		font-size: 18px;
+		margin-left: 7px;
+	}
+	.h-20 {
+    	height: 7px;
+	}
+	.downInvoice-btn img {
+    	width: 17px;
+	}
+	.pdb-price-block{
+		padding: 2.5rem 2rem 2.5rem 3rem;
+	}
+	.cpp-img img {
+	    width: 10.6rem;
+	    height: 10.6rem;
+	    padding: 3px;
+	    margin-bottom: 10px;
+	}
+	.cpp-body {
+    	padding-top: 3rem;
+	}
+	textarea.form-control {
+    	padding: 10px 15px;
+	}
+	.relatedAds-section .product-item:nth-child(5n+0) {
+    	display: none;
+	}
+	.pi-content .pi-rating {
+    	margin-bottom: 4px;
+	}
+	.subPlan-tab-nav li a .left span{
+		margin-right: 1rem;
+	    width: 2.2rem;
+    	height: 2.2rem;
+	}
+	.subPlan-tab-nav li a.active span:after{
+	    left: 3px;
+	    top: 1px;
+	    font-size: 12px;
+	}
+	.subPlan-tab-nav li a .right h5 {
+	    font-size: 3.5rem;
+	    margin-bottom: 0;
+	    margin-right: 0.5rem;
+	}
+	.subPlan-tab-nav .nav-tabs li + li {
+    	margin-top: 20px;
+	}
+	.contentPage-seciton.pad-b-100 {
+    	padding-bottom: 5rem;
+	}
+	.downApp-content p{
+		font-size: 16px;
+	}
+	.chat-head {
+    	padding: 1.5rem 3rem;
+	}
+	.dbMenu-icon {
+    	display: flex;
+    	align-items: center;
+	}
+	.myAdsPro-img {
+    	min-width: 200px;
+    	height: 210px;
+	}
+}
+@media (max-width: 1280px){
+	.largeView-btn{
+		display: none;
+	}
+}
+@media (max-width: 1199px){
+	.trending-section .product-item {
+	    width: calc(33.33% - 10px);
+	}
+
+	.trending-section .product-item:nth-child(4n+0) {
+	    margin-right: 15px;
+	}
+
+	.trending-section .product-item:nth-child(3n+0) {
+	    margin-right: 0;
+	}
+	.homeBanner-caption .hb-form{
+		width: 100%;
+	}
+	.homeBanner-caption{
+		padding-right: 5rem;
+	}
+	.homeBanner-caption h1{
+		font-size: 3.2rem;
+	}
+	.homeBanner-caption .hb-form{
+		margin-top: 4rem;
+	}
+	.subPlan-main-tab {
+	    flex-wrap: wrap;
+	}
+
+	.chat-main-tab .chat-list, .chat-main-tab .chating-content {
+    	width: 100%;
+	    border-radius: 20px;
+	    border-left: 1px solid var(--borderColor);
+	}
+	.chat-main-tab:not(.chatContent-show) .chating-content, .chat-main-tab.chatContent-show .chat-list {
+	    display: none;
+	}
+	.chating-list{
+		height: auto;
+	}
+	.chatHead-back-action .cb-back-btn {
+	    background: none;
+	    border: none;
+	    font-size: 30px;
+	    padding: 0;
+    	margin-right: 15px;
+	}
+	.messages-scroll-box {
+    	overflow-y: auto;
+    	padding-bottom: 20px;
+	}
+
+
+	.db-menu-section {
+	    background: transparent;
+	}
+	.dbMenu-list {
+	    position: fixed;
+	    top: 0;
+	    left: 0;
+	    background: #fff;
+	    bottom: 0;
+	    z-index: 999;
+	    margin-left: 0;
+	    padding: 0;
+	    max-width: 280px;
+	    min-width: inherit;
+	    width: 100%;
+	    height: 100%;
+	    border-radius: 0px;
+	    overflow: hidden auto;
+	    display: block;
+	}
+	.dbMenu-list,
+	.dashboardMenuClose{
+		transition: 0.4s;
+	    -webkit-transform: translateX(-100%);
+	    -moz-transform: translateX(-100%);
+	    -ms-transform: translateX(-100%);
+	    transform: translateX(-100%);
+	}
+	.nav-translate .dbMenu-list,
+	.nav-translate .dashboardMenuClose{
+	    -webkit-transform: translateX(0);
+	    -moz-transform: translateX(0);
+	    -ms-transform: translateX(0);
+	    transform: translateX(0);
+	}
+	.dbMenu-list .dbMenu-item {
+	    border-bottom: 1px solid #F2E8B7;
+	    justify-content: flex-start;
+	    padding: 22px 25px;
+	}
+	.dbMenu-icon {
+	    width: 30px;
+	}
+	.dbMenu-item:not(.active-db) .dbMenu-icon img {
+	    filter: brightness(0.8) invert(1);
+	}
+	.dbMenu-list a span {
+	    color: var(--blackColor);
+	    font-size: 18px;
+	}
+	.dashboardMenuClose {
+	    position: fixed;
+	    top: 0;
+	    left: 0;
+	    right: 0;
+	    bottom: 0;
+	    background-color: rgba(59, 76, 94, 0.9);
+	    z-index: 99;
+	}
+	.dbMenu-item:after{
+		display: none;
+	}
+	.dbMenu-item.active-db span {
+    	color: #fff;
+	}
+	.addAds-form-inner {
+    	padding: 4rem 3rem;
+	}
+	.planPayment-block, .invoiceList-block {
+	    width: 100%;
+	}
+	.planPayment-block {
+	    border-bottom: 0;
+	    border-top-right-radius: 20px;
+	}
+
+	.invoiceList-block {
+	    border-radius: 0 0 20px 20px;
+	    border-left: 1px solid var(--borderColor);
+	    padding: 4rem;
+	}
+	.myProfile-main-tab .yourProfile-block, .myProfile-main-tab .editProfile-block, .myProfile-main-tab .changePass-block {
+	    width: 33.33%;
+	}
+
+	.subscription-section .subPlan-tab-nav, .subscription-section .subPlan-content {
+	    width: 100%;
+	    background: #fff;
+	}
+
+	.subscription-section .subPlan-tab-nav {border-top-right-radius: 20px;border-bottom: none;}
+
+	.subscription-section .subPlan-content {
+	    border-left: 1px solid var(--borderColor);
+	    border-radius: 0 0 20px 20px;
+	}
+
+	.planGetStart-block {
+	    margin-top: 30px;
+	}
+	.settings-section .settingTab-nav, .settings-section .subPlan-content {
+	    width: 100%;
+	    background: #fff;
+	}
+
+	.settings-section .settingTab-nav {
+	    border-top-right-radius: 20px;
+	    border-bottom: none;
+	}
+
+	.settings-section .subPlan-content {
+	    margin-top: 10px;
+	    border-radius: 0 0 20px 20px;
+	    border-left: 1px solid var(--borderColor);
+	}
+
+	.settingTab-content .ss-list {
+	    padding: 0 2rem 4rem;
+	}
+	.relatedAds-section .product-item:nth-child(5n+0){
+		display: block;
+	}
+	.pdb-wrap .pdb-left {
+    	width: calc(100% - 310px);
+	}
+	.catHead-menu-inner ul{
+		padding: 1.8rem 1rem;
+	}
+	.myAdsPro-img {
+    	min-width: 170px;
+    	height: 230px;
+	}
+	.aboutUs-img-col {
+    	height: 300px;
+    	margin-bottom: 30px;
+	}
+	.aboutUs-img-col img{
+		width:  100%;
+	}
+}
+
+@media (max-width: 991px){
+	
+	.homeBanner-img{
+		display: none;
+	}
+	.homeBanner-caption{
+	    width: 100%;
+    	padding-right: 0;
+	}
+	.trending-section{
+		padding:  6rem 0;
+	}
+	.trending-section .product-item {
+    	width: calc(50% - 8px);
+	}
+	.trending-section .product-item:nth-child(3n+0){
+		margin-right: 15px;
+	}
+	.trending-section .product-item:nth-child(even){
+		margin-right: 0;
+	}
+	.footerLink-row {
+    	padding: 5.5rem 0 2.5rem;
+	}
+	.copyRight-row {
+    	padding: 1.8rem 0;
+    	text-align: center;
+	}
+	.footerSocial {
+    	justify-content: center;
+    	margin-bottom: 10px;
+	}
+	.footerLink-list {
+    	justify-content: space-between;
+    	margin-top: 30px;
+	}
+	.downApp-img {
+    	margin-top: -50px;
+	}
+	.downApp-content {
+    	padding: 5rem 0;
+	}
+	.hdown-app-section{
+		margin-top: 0;
+	}
+	.invoice-table {
+	    display: block;
+	    width: 100%;
+	    overflow-x: auto;
+	}
+
+	.myProfile-main-tab .yourProfile-block, .myProfile-main-tab .editProfile-block, .myProfile-main-tab .changePass-block {
+	    width: 100%;
+	}
+
+	.pcd-item {
+	    margin-bottom: 20px !important;
+	    width: 100%;
+	}
+
+	.pcd-item + .pcd-item {
+	    margin-left: 15px;
+	}
+
+	.profile-content-detail {
+	    flex-wrap: nowrap;
+	}
+
+	.pcd-item:first-child {
+	    margin-right: 0;
+	}
+
+	.editProfile-block {
+	    border: solid var(--borderColor);
+	    border-width: 1px 0;
+	}
+	.review-item {
+	    margin: 0 2.2rem;
+	}
+
+	.review-img img {
+	    width: 50px;
+	    height: 50px;
+	}
+
+	.review-img {
+	    min-width: 60px;
+	}
+
+	.review-star {
+	    font-size: 12px;
+	    margin-bottom: 10px;
+	}
+
+	.productDetail-section {
+	    padding: 50px 0;
+	}
+
+	.pdb-wrap .pdb-left {
+	    width: 100%;
+	}
+
+	.pdb-wrap {
+	    flex-wrap: wrap;
+	}
+
+	.pdb-wrap .pdb-right {
+	    margin: 20px 0 0;
+	    width: 100%;
+	}
+
+	.pdb-blocks + .pdb-blocks {
+	    margin-top: 20px;
+	}
+
+	.myAdsPro-img {
+	    min-width: 250px;
+	    height: 220px;
+	}
+}
+
+@media (max-width: 767px){
+	.logged-user a{
+		margin: 0 8px;
+	}
+	.mobileRight-menu-block .logged-user{
+		margin-right: 12px;
+	}
+	.homeBanner-caption {
+    	padding: 40px 0;
+	}
+	.homeBanner-caption h1 {
+    	font-size: 3rem;
+	}
+	.homeBanner-caption .hb-form {
+	    flex-wrap: wrap;
+	    padding: 1.2rem 1.5rem;
+	}
+	.hb-form-group {
+	    width: 100% !important;
+	}
+	.hb-form-group:first-child:after {
+	    content: none;
+	}
+	.hb-form-group:first-child {
+	    border-bottom: 1px solid #e2e2e2;
+	    margin-bottom: 5px;
+	    padding-bottom: 7px;
+	}
+	.hb-form-group:nth-child(2) {
+	    margin: 5px 0;
+	}
+	.hb-form-group .btn {
+	    margin-top: 15px;
+	    width: 100%;
+	}
+	.section-title h2 {
+    	font-size: 3.2rem;
+	}
+	.product-item .pi-img a {
+	    height: 120px;
+	    border-radius: 8px 8px 0 0;
+	}
+
+	.product-item .pi-content {
+	    padding: 13px 8px;
+	}
+
+	.pi-content h3 {
+	    font-size: 15px;
+	    margin-bottom: 5px;
+	}
+
+	.pi-rating i, .pi-rating .count-rate {
+	    font-size: 11px;
+	}
+
+	.product-item .pi-content .fav-pi-btn {
+	    top: -34px;
+	    right: 6px;
+	    background: rgb(0 0 0 / 60%);
+	    height: 30px;
+	    width: 30px;
+	    border-radius: 100px;
+	    font-size: 15px;
+	    color: var(--whiteColor);
+	}
+
+	.pi-price {
+	    font-size: 14px;
+	}
+
+	.product-item {
+	    border-radius: 8px;
+	}
+
+	.downApp-img {
+	    margin: 0;
+	}
+
+	.downApp-store a:first-child {
+	    margin-right: 4px;
+	}
+
+	.footerLink-list {
+	    margin: 0;
+	    flex-wrap: wrap;
+	}
+
+	.footerLink-item {
+	    width: 100%;
+	    margin-top: 35px;
+	}
+
+	.copyRight-row {
+	    padding: 12px 0;
+	}
+
+	.copyRight-row p {
+	    font-size: 14px;
+	}
+
+	.footerSocial a {
+	    width: 35px;
+	    height: 35px;
+	    line-height: 35px;
+	    font-size: 15px;
+	    margin-bottom: 7px;
+	}
+	.chatBox-section {
+    	padding: 50px 0;
+	}
+	.typing-box {
+    	padding: 9px 0;
+	}
+	.messages-scroll-box {
+    	height: 400px;
+	}
+
+	.chat-user-img img {
+	    width: 45px;
+	    min-width: 45px;
+	    height: 45px;
+	}
+	.chat-user-content h5 {
+	    font-size: 16px;
+	}
+	.chat-user-content p, .chat-user-content h5 .time {
+	    font-size: 13px;
+	}
+	.new-message-number {
+	    font-size: 12px;
+	}
+	.messages-box {
+	    padding: 0 12px;
+	}
+	.chat-date {
+	    font-size: 13px;
+	    padding-top: 10px;
+	}
+	.cu-message .message * {
+	    font-size: 14px;
+	}
+	.cu-message .message {
+	    padding: 10px;
+	    border-radius: 5px 10px 10px;
+	}
+	.cu-img img {
+	    width: 35px;
+	    height: 35px;
+	    min-width: 35px;
+	    margin-right: 6px;
+	}
+	.cu-message .time {
+	    font-size: 10px;
+	    margin: 5px 0 0 6px;
+	}
+	.sent .cu-message .time {
+	    margin: 5px 6px 0 0;
+	}
+	.sent .cu-img img {
+	    margin-left: 5px;
+	}
+	.chat-head {
+	    padding: 15px 12px;
+	}
+	.chatHead-back-action .cb-back-btn {
+	    font-size: 26px;
+	}
+	.pad-t-70.pad-b-100 {
+    	padding: 50px 0;
+	}
+	.addAds-form-inner{
+		padding: 3rem 15px;
+	}
+	.uploadPro-group{
+		justify-content: space-between;
+	}
+	.uploadPro-group label {
+		margin: 0 0 20px 0;
+		width: 100%;
+	}
+	.uploadPro-group .uploadPro-btn{
+		width: 100%;
+	}
+	.uploadPro-group .uploadPro-btn, .uploadPro-group .uploadedImg-show {
+    	height: 100px;
+	}
+	.uploadPro-group .uploadedImg-show{
+		width: 48%;
+		margin: 0 0 15px 0;
+	}
+	.uis-delete {
+		width: 2.5rem;
+		height: 2.5rem;
+		top: -5px;
+		right: -5px;
+		font-size: 12px;
+	}
+	.addAds-section .form-submit-block .btn {
+    	width: 130px;
+	}
+	.planPayment-block, .invoiceList-block {
+	    padding: 3rem 15px;
+	}
+	.ivt-row .ivt-data {
+    	white-space: nowrap;
+    	padding: 18px 15px;
+	}
+	.cus_modal-sm {
+    	max-width: 96%;
+	}
+	.cus_modal .cus_modal_body .modal_inner {
+    	padding: 25px 15px;
+	}
+
+	.myProfile-main-tab .yourProfile-block, .myProfile-main-tab .editProfile-block, .myProfile-main-tab .changePass-block {
+	    padding: 3rem 15px;
+	}
+
+	.yourProfile-img h5 {
+	    margin-top: 15px;
+	}
+
+	.prfilePicture-input .userImg-fluid, .ypi-img-inner img {
+	    width: 100px;
+	    height: 100px;
+	}
+
+	.profile-content-detail {
+	    flex-wrap: wrap;
+	}
+
+	.pcd-item + .pcd-item {
+	    margin: 45px 0 0;
+	}
+
+
+	.notifications-list-wrap {
+	    padding: 1rem 15px;
+	}
+
+	.notificaiton-content .notify-title {
+	    flex-wrap: wrap;
+	}
+
+	.notification-item .notificaiton-icon {
+	    min-width: 45px;
+	    height: 45px;
+	    line-height: 45px;
+	    font-size: 18px;
+	    margin-right: 10px;
+	}
+
+	.notification-item {
+	    align-items: flex-start;
+	}
+
+	.notificaiton-content .notify-title p {
+	    font-size: 15px;
+	}
+
+	.notificaiton-content span {
+	    font-size: 12px;
+	}
+
+
+	.subscription-section .subPlan-tab-nav {
+	    padding: 2rem 15px;
+	}
+
+	.subscription-section .subPlan-tab-nav .nav-tabs li a {
+	    padding: 2rem 1.5rem;
+	}
+
+	.subPlan-tab-nav li a .right h5 {
+	    font-size: 3rem;
+	}
+
+	.subPlan-tab-nav li a .right small {
+	    font-size: 11px;
+	    margin-top: 8px;
+	}
+
+	.subPlan-tab-nav li a .left h6 {
+	    font-size: 17px;
+	}
+
+	.subPlan-detail .subPlan-list {
+	    height: auto;
+	    padding: 3rem 0;
+	}
+
+	.subPlan-list .spl-item {
+	    width: 100%;
+	    padding: 0 15px;
+        margin-top: 18px;
+        font-size: 15px;
+	}
+
+	.subPlan-list:after {
+	    display: none;
+	}
+
+	.subPlan-list .spl-item:first-child {
+	    margin: 0;
+	}
+
+	.transaction-alert span {
+	    font-size: 14px;
+	}
+
+	.transaction-alert {
+	    padding: 15px;
+	}
+	.settingTab-nav ul li a {
+	    padding: 2rem 15px;
+	    font-size: 17px;
+	}
+
+	.ss-list .ss-item {
+	    padding: 2rem 0;
+	}
+
+	.ss-list .ss-item .ss-label {
+	    font-size: 17px;
+	}
+
+	.switch-input {
+	    width: 42px;
+	    height: 16px;
+	}
+
+	.slider-switch:before {
+	    height: 22px;
+	    width: 22px;
+	}
+
+	.switch-input input:checked + .slider-switch:before {
+	    -webkit-transform: translateX(20px);
+	    -ms-transform: translateX(20px);
+	    transform: translateX(20px);
+	}
+
+	.reviewTab-nav .nav-tabs {
+	    padding: 5px;
+	    flex-wrap: nowrap;
+	}
+
+	.reviewTab-nav .nav-tabs .nav-link {
+	    width: 100%;
+	    min-width: 140px;
+	    font-size: 16px;
+	    padding: 12px 5px;
+	}
+
+	.review-item {
+	    flex-wrap: wrap;
+	}
+
+	.review-content {
+	    margin-top: 15px;
+	}
+
+	.review-list {
+	    background: #fff;
+	    border-radius: 20px;
+	}
+	.pdb-blocks {
+    	padding: 3rem 15px;
+	}
+
+	.singleProduct-slider .slide-arrow {
+	    width: 30px;
+	    height: 30px;
+	    font-size: 12px;
+	    line-height: 30px;
+	}
+	.catHead-drop {
+    	padding-right: 1rem;
+	}
+	.catHead-drop .select2-container {
+    	width: 140px !important;
+	}
+	.catHead-drop .select2-container .select2-selection--single .select2-selection__rendered{
+		text-transform: capitalize;
+	}
+	.myAdsPro-item {
+	    flex-wrap: wrap;
+	    padding: 1rem;
+	}
+
+	.myAdsPro-img {
+	    min-width: 100%;
+	    height: 180px;
+	}
+
+	.myAdsPro-detail {
+	    margin: 15px 0 0;
+	}
+
+	.myAdsPro-de-bottom {
+	    margin: 15px 0 0;
+	}
+	.contact-form .section-title h2{
+	    font-size: 30px;
+	}
+	.contact-blocks .block .inner-box {
+	    margin-bottom: 6rem;
+	    height: auto;
+	}
+	.contact-form{
+	    padding-bottom: 6rem;
+	}
+	.contact-blocks{
+		padding-bottom: 2rem;
+	}
+	.contact-form .form{
+		padding:  2rem 15px;
+	}
+	.contact-form .section-title {
+    	padding-bottom: 30px;
+	}
+	.myaccordion .card-header {
+    	padding: 0.75rem 5px 0.75rem 0.75rem;
+	}
+	.myaccordion .btn {
+    	font-size: 15px;
+    	white-space: normal;
+	}	
+	.myaccordion .btn span.col-title-block {
+    	width: 90%;
+	}
+	.myaccordion .fa-stack {
+    	font-size: 16px;
+	}
+}

@@ -1,0 +1,8 @@
+*.sqlite
+*.sqlite-journal
+vendor/
+/composer.lock
+public/uploads/categories/*
+public/uploads/user/*
+public/uploads/users/*
+

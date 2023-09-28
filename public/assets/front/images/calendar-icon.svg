@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="18" height="20" viewBox="0 0 18 20">
+  <g id="calendar-interface-symbol-tool" transform="translate(-1.974)">
+    <g id="Group_1373" data-name="Group 1373" transform="translate(1.974)">
+      <path id="Path_5051" data-name="Path 5051" d="M17.62,2.166h-.608V1.509a1.479,1.479,0,1,0-2.958,0v.657H12.537V1.509a1.479,1.479,0,1,0-2.958,0v.657H8.062V1.509a1.479,1.479,0,1,0-2.958,0v.657H4.328A2.346,2.346,0,0,0,1.974,4.5v13.17A2.346,2.346,0,0,0,4.328,20H17.62a2.346,2.346,0,0,0,2.354-2.332V4.5A2.346,2.346,0,0,0,17.62,2.166Zm-2.735-.657a.649.649,0,1,1,1.3,0V4.2a.649.649,0,1,1-1.3,0Zm-4.475,0a.649.649,0,1,1,1.3,0V4.2a.649.649,0,1,1-1.3,0Zm-4.476,0a.649.649,0,1,1,1.3,0V4.2a.649.649,0,1,1-1.3,0ZM18.589,17.668a.966.966,0,0,1-.969.96H4.328a.966.966,0,0,1-.969-.96V5.6H18.589Z" transform="translate(-1.974)" fill="#aeadad"/>
+      <rect id="Rectangle_544" data-name="Rectangle 544" width="2.485" height="2.212" transform="translate(2.569 8.04)" fill="#aeadad"/>
+      <rect id="Rectangle_545" data-name="Rectangle 545" width="2.486" height="2.212" transform="translate(6.051 8.04)" fill="#aeadad"/>
+      <rect id="Rectangle_546" data-name="Rectangle 546" width="2.485" height="2.212" transform="translate(9.463 8.04)" fill="#aeadad"/>
+      <rect id="Rectangle_547" data-name="Rectangle 547" width="2.486" height="2.212" transform="translate(12.945 8.04)" fill="#aeadad"/>
+      <rect id="Rectangle_548" data-name="Rectangle 548" width="2.485" height="2.21" transform="translate(2.569 11.041)" fill="#aeadad"/>
+      <rect id="Rectangle_549" data-name="Rectangle 549" width="2.486" height="2.21" transform="translate(6.051 11.041)" fill="#aeadad"/>
+      <rect id="Rectangle_550" data-name="Rectangle 550" width="2.485" height="2.21" transform="translate(9.463 11.041)" fill="#aeadad"/>
+      <rect id="Rectangle_551" data-name="Rectangle 551" width="2.486" height="2.21" transform="translate(12.945 11.041)" fill="#aeadad"/>
+      <rect id="Rectangle_552" data-name="Rectangle 552" width="2.485" height="2.21" transform="translate(2.569 14.04)" fill="#aeadad"/>
+      <rect id="Rectangle_553" data-name="Rectangle 553" width="2.486" height="2.21" transform="translate(6.051 14.04)" fill="#aeadad"/>
+      <rect id="Rectangle_554" data-name="Rectangle 554" width="2.485" height="2.21" transform="translate(9.463 14.04)" fill="#aeadad"/>
+      <rect id="Rectangle_555" data-name="Rectangle 555" width="2.486" height="2.21" transform="translate(12.945 14.04)" fill="#aeadad"/>
+    </g>
+  </g>
+</svg>

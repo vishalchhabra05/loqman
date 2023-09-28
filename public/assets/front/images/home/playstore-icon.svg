@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="288" height="98" viewBox="0 0 288 98">
+  <defs>
+    <filter id="Rectangle_556" x="0" y="0" width="288" height="98" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.059"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path">
+      <path id="Path_17" data-name="Path 17" d="M20.712,17.411a2.928,2.928,0,0,0-.692,2.079v32.7a2.923,2.923,0,0,0,.692,2.079l.109.1L39.359,36.051v-.433L20.821,17.3Z" transform="translate(-20.02 -17.305)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="-0.196" y1="1.294" x2="-0.17" y2="1.294" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#00a0ff"/>
+      <stop offset="0.007" stop-color="#00a1ff"/>
+      <stop offset="0.26" stop-color="#00beff"/>
+      <stop offset="0.512" stop-color="#00d2ff"/>
+      <stop offset="0.76" stop-color="#00dfff"/>
+      <stop offset="1" stop-color="#00e3ff"/>
+    </linearGradient>
+    <clipPath id="clip-path-2">
+      <path id="Path_18" data-name="Path 18" d="M32.979,31.592v.433l6.172,6.108.145-.081,7.32-4.108c2.088-1.174,2.088-3.1,0-4.265L39.3,25.563l-.137-.079Z" transform="translate(-32.979 -25.484)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-2" x1="-3.13" y1="4.007" x2="-3.035" y2="4.007" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ffe000"/>
+      <stop offset="0.409" stop-color="#ffbd00"/>
+      <stop offset="0.775" stop-color="orange"/>
+      <stop offset="1" stop-color="#ff9c00"/>
+    </linearGradient>
+    <clipPath id="clip-path-3">
+      <path id="Path_20" data-name="Path 20" d="M20.484,48.153c.694.719,1.825.807,3.111.087L45.447,35.966,39.13,29.722Z" transform="translate(-20.484 -29.722)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-3" x1="-0.469" y1="1.292" x2="-0.435" y2="1.292" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ff3a44"/>
+      <stop offset="1" stop-color="#c31162"/>
+    </linearGradient>
+    <clipPath id="clip-path-4">
+      <path id="Path_22" data-name="Path 22" d="M20.484,17.569,39.13,35.993l6.317-6.245L23.6,17.475a3.5,3.5,0,0,0-1.676-.492,1.938,1.938,0,0,0-1.436.586" transform="translate(-20.484 -16.983)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-4" x1="-0.474" y1="1.736" x2="-0.44" y2="1.736" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#32a071"/>
+      <stop offset="0.068" stop-color="#2da771"/>
+      <stop offset="0.476" stop-color="#15cf74"/>
+      <stop offset="0.801" stop-color="#06e775"/>
+      <stop offset="1" stop-color="#00f076"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_9546" data-name="Group 9546" transform="translate(-131 -3457)">
+    <g transform="matrix(1, 0, 0, 1, 131, 3457)" filter="url(#Rectangle_556)">
+      <rect id="Rectangle_556-2" data-name="Rectangle 556" width="270" height="80" rx="10" transform="translate(9 6)" fill="#fff"/>
+    </g>
+    <text id="Get_it_on" data-name="Get it on" transform="translate(225 3492)" fill="#090" font-size="16" font-family="NexaLight, Nexa"><tspan x="0" y="0">Get it on</tspan></text>
+    <text id="Google_Play" data-name="Google Play" transform="translate(225 3521)" fill="#090" font-size="26" font-family="NexaBold, Nexa"><tspan x="0" y="0">Google Play</tspan></text>
+    <g id="Group_1041" data-name="Group 1041" transform="translate(165 3484)">
+      <g id="Group_4" data-name="Group 4" transform="translate(0 0.48)">
+        <g id="Group_3" data-name="Group 3" transform="translate(0 0)" clip-path="url(#clip-path)">
+          <path id="Path_16" data-name="Path 16" d="M64.292,38.988,35.874,10.9,7.456,38.988,35.874,67.075Z" transform="translate(-26.205 -20.458)" fill="url(#linear-gradient)"/>
+        </g>
+      </g>
+      <g id="Group_6" data-name="Group 6" transform="translate(19.339 12.686)">
+        <g id="Group_5" data-name="Group 5" transform="translate(0 0)" clip-path="url(#clip-path-2)">
+          <rect id="Rectangle_4" data-name="Rectangle 4" width="15.724" height="12.649" transform="translate(0 0)" fill="url(#linear-gradient-2)"/>
+        </g>
+      </g>
+      <g id="Group_8" data-name="Group 8" transform="translate(0.692 19.01)">
+        <g id="Group_7" data-name="Group 7" transform="translate(0 0)" clip-path="url(#clip-path-3)">
+          <path id="Path_19" data-name="Path 19" d="M58.39,43.411,36.176,21.455,13.962,43.411,36.176,65.366Z" transform="translate(-23.695 -33.792)" fill="url(#linear-gradient-3)"/>
+        </g>
+      </g>
+      <g id="Group_10" data-name="Group 10" transform="translate(0.692 0)">
+        <g id="Group_9" data-name="Group 9" clip-path="url(#clip-path-4)">
+          <path id="Path_21" data-name="Path 21" d="M36.138,52.4l22.1-21.841L36.138,8.716,14.04,30.557Z" transform="translate(-23.657 -21.053)" fill="url(#linear-gradient-4)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
